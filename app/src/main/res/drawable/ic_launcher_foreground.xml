@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Drop shadow / outer glow -->
+    <path
+        android:fillColor="#25000000"
+        android:pathData="M54,23 A31,31 0 1,0 54,85 A31,31 0 1,0 54,23 Z" />
+    <!-- Outer Golden Coin Ring -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M54,21 A31,31 0 1,0 54,83 A31,31 0 1,0 54,21 Z" />
+    <!-- Inner Coin Disk -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M54,25 A27,27 0 1,0 54,79 A27,27 0 1,0 54,25 Z" />
+    <!-- Inner Border Ring -->
+    <path
+        android:strokeColor="#FEF3C7"
+        android:strokeWidth="1.5"
+        android:fillColor="#00000000"
+        android:pathData="M54,28 A24,24 0 1,0 54,76 A24,24 0 1,0 54,28 Z" />
+
+    <!-- Indian Rupee Symbol (₹) Bold & Centered -->
+    <!-- Top horizontal bar -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M43,36 H65 V39.5 H43 Z" />
+    <!-- Second horizontal bar -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M43,43 H63 V46.5 H43 Z" />
+    <!-- Upper loop of Rupee -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M43,39.5 H54 C58,39.5 60.5,41.5 60.5,45 C60.5,48.5 58,51 54,51 H43 V47.5 H53.5 C55.5,47.5 56.8,46.5 56.8,45 C56.8,43.5 55.5,42.5 53.5,42.5 H43 Z" />
+    <!-- Vertical stem and diagonal leg -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M47,36 H50.5 V68 H47 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M51.5,49 L65,68 H60.5 L48,50 Z" />
+
+    <!-- Sparkle Stars for Savings -->
+    <path
+        android:fillColor="#FEF3C7"
+        android:pathData="M73,28 L74.2,32 L78,33 L74.2,34.2 L73,38 L71.8,34.2 L68,33 L71.8,32 Z" />
+    <path
+        android:fillColor="#FEF3C7"
+        android:pathData="M34,68 L34.8,71 L38,71.8 L34.8,72.6 L34,75.5 L33.2,72.6 L30,71.8 L33.2,71 Z" />
+</vector>

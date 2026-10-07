@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Paisa Bachao</string>
+    <string name="tagline">Save Smart, Track Daily</string>
+    <string name="dashboard_title">Dashboard</string>
+    <string name="transactions_title">Transactions</string>
+    <string name="budget_title">Budgets</string>
+    <string name="goals_title">Savings Goals</string>
+    <string name="sms_reader_title">SMS Insights</string>
+    <string name="settings_title">Settings</string>
+    <string name="add_transaction">Add Transaction</string>
+    <string name="add_goal">New Savings Goal</string>
+    <string name="set_budget">Set Budget</string>
+</resources>

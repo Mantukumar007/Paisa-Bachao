@@ -1,0 +1,6 @@
+{
+  "name": "Paisa Bachao",
+  "description": "Smart daily expense tracker, bank SMS transaction reader, monthly spending insights, savings goals, and budget management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
