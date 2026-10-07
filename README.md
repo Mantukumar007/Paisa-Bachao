@@ -204,8 +204,7 @@ app/src/main/java/com/example/
 ## 👨‍💻 Author
 
 Created with ❤️ by **Mantu Kumar**
-- Portfolio: [mantukumar-portfolio.vercel.app](https://mantukumar-portfolio.vercel.app/?utm_source=chatgpt.com)
-- Email: cms.mantukumar@gmail.com
+- Portfolio: [mantukumar-portfolio.vercel.app](https://mantukumar-portfolio.vercel.app/)
 
 ---
 
